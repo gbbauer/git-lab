@@ -1,0 +1,2 @@
+def bullshit() :
+  print("BULLSHIRT")
